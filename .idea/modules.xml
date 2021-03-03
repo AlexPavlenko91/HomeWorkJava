@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HomeWork.iml" filepath="$PROJECT_DIR$/.idea/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_hw1_oop/Java_hw1_oop.iml" filepath="$PROJECT_DIR$/Java_hw1_oop/Java_hw1_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_hw2_oop/Java_hw2_oop.iml" filepath="$PROJECT_DIR$/Java_hw2_oop/Java_hw2_oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_hw1_oop/Task2.iml" filepath="$PROJECT_DIR$/Java_hw1_oop/Task2.iml" />
+    </modules>
+  </component>
+</project>
