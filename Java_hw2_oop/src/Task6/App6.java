@@ -5,5 +5,8 @@ public class App6 {
         Car car = new Car("A6", "Audi", 2014, 2.6f);
         car.Show();
         car.Show("Alex");
+        Car car2 = null;
+        car2.Show();
+
     }
 }
