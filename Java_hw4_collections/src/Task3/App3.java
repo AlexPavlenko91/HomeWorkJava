@@ -14,7 +14,6 @@ public class App3 {
         int i = 0;
         while (clientsQueue.size() < names.size()) {
             int prior = rand.nextInt(10);
-            System.out.println(prior);
             clientsQueue.put(new Client(names.get(i), prior), new Date());
             i++;
         }
