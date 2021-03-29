@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Java_hw2_oop/Java_hw2_oop.iml" filepath="$PROJECT_DIR$/Java_hw2_oop/Java_hw2_oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_hw3_exceptions/Java_hw3_exceptions.iml" filepath="$PROJECT_DIR$/Java_hw3_exceptions/Java_hw3_exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_hw4_collections/Java_hw4_collections.iml" filepath="$PROJECT_DIR$/Java_hw4_collections/Java_hw4_collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_hw5_lambdas/Java_hw5_lambdas.iml" filepath="$PROJECT_DIR$/Java_hw5_lambdas/Java_hw5_lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_hw6_files/Java_hw6_files.iml" filepath="$PROJECT_DIR$/Java_hw6_files/Java_hw6_files.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_hw1_oop/Task2.iml" filepath="$PROJECT_DIR$/Java_hw1_oop/Task2.iml" />
     </modules>
   </component>
