@@ -3,6 +3,8 @@ package Task5;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -35,6 +37,8 @@ public class AppReplaceWords {
             while (matcher.find()) matches++;
 
             text = Pattern.compile("\\b" + searchWord + "\\b", Pattern.CASE_INSENSITIVE).matcher(text).replaceAll(replaceWord);
+
+            Files.write( Paths.get(pathName), text.getBytes());
 
             System.out.println(text);
             System.out.println("=========================");

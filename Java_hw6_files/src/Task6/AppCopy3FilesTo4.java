@@ -18,11 +18,7 @@ public class AppCopy3FilesTo4 {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        /*List<String> paths = new ArrayList<>( Arrays.asList(
-                "D:\\Java\\Test1.txt",
-                "D:\\Java\\Test2.txt",
-                "D:\\Java\\Test3.txt",
-                "D:\\Java\\Test4.txt"));*/
+
         String res = "";
         for (int i = 0; i < 3; i++) {
             res += getStringWithBuffer(paths.get(i));
